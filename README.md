@@ -2,7 +2,7 @@
 
 An interactive 3D Earth visualization built with Three.js, featuring realistic textures, clouds, stars, and smooth animations.
 
-![Earth Project Screenshot](./sphere-threejs/public/README.png)
+![Earth Project Screenshot](./public/README.png)
 
 ## 📺 Tutorial
 
